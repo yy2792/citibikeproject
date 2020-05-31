@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "citibikeproject"
+    }
+  },
+  "defaultProject": "citibikeproject",
+  "cli": {
+    "analytics": false
+  }
 }

@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~9.1.9",
     "@angular/platform-browser-dynamic": "~9.1.9",
     "@angular/router": "~9.1.9",
+    "@deck.gl/core": "^8.1.8",
+    "@deck.gl/layers": "^8.1.8",
+    "@types/mapbox-gl": "^1.10.2",
+    "deck.gl": "^8.1.8",
+    "mapbox-gl": "^1.10.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
